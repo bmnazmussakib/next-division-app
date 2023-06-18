@@ -1,0 +1,972 @@
+{
+    "division": [
+        {
+            "id": "1",
+            "name": "Dhaka",
+            "districts": [
+                {
+                    "id": "1",
+                    "name": "Dhaka",
+                    "division_id": "1",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "Dhaka 1",
+                            "district_id": "1",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "2",
+                            "name": "Dhaka 2",
+                            "district_id": "1",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "3",
+                            "name": "Dhaka 3",
+                            "district_id": "1",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "4",
+                            "name": "Dhaka 4",
+                            "district_id": "1",
+                            "division_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "Gazipur",
+                    "division_id": "1",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "Gazipur 1",
+                            "district_id": "2",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "2",
+                            "name": "Gazipur 2",
+                            "district_id": "2",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "3",
+                            "name": "Gazipur 3",
+                            "district_id": "2",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "4",
+                            "name": "Gazipur 4",
+                            "district_id": "2",
+                            "division_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "name": "Tangail",
+                    "division_id": "1",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "Tangail 1",
+                            "district_id": "3",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "2",
+                            "name": "Tangail 2",
+                            "district_id": "3",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "3",
+                            "name": "Tangail 3",
+                            "district_id": "3",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "4",
+                            "name": "Tangail 4",
+                            "district_id": "3",
+                            "division_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "name": "Narshindi",
+                    "division_id": "1",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "Narshindi 1",
+                            "district_id": "4",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "2",
+                            "name": "Narshindi 2",
+                            "district_id": "4",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "3",
+                            "name": "Narshindi 3",
+                            "district_id": "4",
+                            "division_id": "1"
+                        },
+                        {
+                            "id": "4",
+                            "name": "Narshindi 4",
+                            "district_id": "4",
+                            "division_id": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Khulna",
+            "districts": [
+                {
+                    "id": "5",
+                    "name": "Khulna",
+                    "division_id": "2",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "Khulna 1",
+                            "district_id": "1",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "2",
+                            "name": "Khulna 2",
+                            "district_id": "1",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "3",
+                            "name": "Khulna 3",
+                            "district_id": "1",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "4",
+                            "name": "Khulna 4",
+                            "district_id": "1",
+                            "division_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "name": "kushtia",
+                    "division_id": "2",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "kushtia 1",
+                            "district_id": "2",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "2",
+                            "name": "kushtia 2",
+                            "district_id": "2",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "3",
+                            "name": "kushtia 3",
+                            "district_id": "2",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "4",
+                            "name": "kushtia 4",
+                            "district_id": "2",
+                            "division_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "name": "chuadanga",
+                    "division_id": "1",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "chuadanga 1",
+                            "district_id": "3",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "2",
+                            "name": "chuadanga 2",
+                            "district_id": "3",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "3",
+                            "name": "chuadanga 3",
+                            "district_id": "3",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "4",
+                            "name": "chuadanga 4",
+                            "district_id": "3",
+                            "division_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "name": "meherpur",
+                    "division_id": "1",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "meherpur 1",
+                            "district_id": "4",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "2",
+                            "name": "meherpur 2",
+                            "district_id": "4",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "3",
+                            "name": "meherpur 3",
+                            "district_id": "4",
+                            "division_id": "2"
+                        },
+                        {
+                            "id": "4",
+                            "name": "meherpur 4",
+                            "district_id": "4",
+                            "division_id": "2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Sylhet",
+            "districts": [
+                {
+                    "id": "9",
+                    "name": "Sylhet",
+                    "division_id": "3",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "Sylhet 1",
+                            "district_id": "1",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "2",
+                            "name": "Sylhet 2",
+                            "district_id": "1",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "3",
+                            "name": "Sylhet 3",
+                            "district_id": "1",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "4",
+                            "name": "Sylhet 4",
+                            "district_id": "1",
+                            "division_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "10",
+                    "name": "sunamganj",
+                    "division_id": "3",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "sunamganj 1",
+                            "district_id": "2",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "2",
+                            "name": "sunamganj 2",
+                            "district_id": "2",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "3",
+                            "name": "sunamganj 3",
+                            "district_id": "2",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "4",
+                            "name": "sunamganj 4",
+                            "district_id": "2",
+                            "division_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "11",
+                    "name": "habiganj",
+                    "division_id": "3",
+                    "areas": [
+                        {
+                            "id": "1",
+                            "name": "habiganj 1",
+                            "district_id": "3",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "2",
+                            "name": "habiganj 2",
+                            "district_id": "3",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "3",
+                            "name": "habiganj 3",
+                            "district_id": "3",
+                            "division_id": "3"
+                        },
+                        {
+                            "id": "4",
+                            "name": "habiganj 4",
+                            "district_id": "3",
+                            "division_id": "3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "district": [
+        {
+            "id": "1",
+            "name": "Dhaka",
+            "division_id": "1",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "Dhaka 1",
+                    "district_id": "1",
+                    "division_id": "1"
+                },
+                {
+                    "id": "2",
+                    "name": "Dhaka 2",
+                    "district_id": "1",
+                    "division_id": "1"
+                },
+                {
+                    "id": "3",
+                    "name": "Dhaka 3",
+                    "district_id": "1",
+                    "division_id": "1"
+                },
+                {
+                    "id": "4",
+                    "name": "Dhaka 4",
+                    "district_id": "1",
+                    "division_id": "1"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Gazipur",
+            "division_id": "1",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "Gazipur 1",
+                    "district_id": "2",
+                    "division_id": "1"
+                },
+                {
+                    "id": "2",
+                    "name": "Gazipur 2",
+                    "district_id": "2",
+                    "division_id": "1"
+                },
+                {
+                    "id": "3",
+                    "name": "Gazipur 3",
+                    "district_id": "2",
+                    "division_id": "1"
+                },
+                {
+                    "id": "4",
+                    "name": "Gazipur 4",
+                    "district_id": "2",
+                    "division_id": "1"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Tangail",
+            "division_id": "1",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "Tangail 1",
+                    "district_id": "3",
+                    "division_id": "1"
+                },
+                {
+                    "id": "2",
+                    "name": "Tangail 2",
+                    "district_id": "3",
+                    "division_id": "1"
+                },
+                {
+                    "id": "3",
+                    "name": "Tangail 3",
+                    "district_id": "3",
+                    "division_id": "1"
+                },
+                {
+                    "id": "4",
+                    "name": "Tangail 4",
+                    "district_id": "3",
+                    "division_id": "1"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Narshindi",
+            "division_id": "1",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "Narshindi 1",
+                    "district_id": "4",
+                    "division_id": "1"
+                },
+                {
+                    "id": "2",
+                    "name": "Narshindi 2",
+                    "district_id": "4",
+                    "division_id": "1"
+                },
+                {
+                    "id": "3",
+                    "name": "Narshindi 3",
+                    "district_id": "4",
+                    "division_id": "1"
+                },
+                {
+                    "id": "4",
+                    "name": "Narshindi 4",
+                    "district_id": "4",
+                    "division_id": "1"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Khulna",
+            "division_id": "2",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "Khulna 1",
+                    "district_id": "1",
+                    "division_id": "2"
+                },
+                {
+                    "id": "2",
+                    "name": "Khulna 2",
+                    "district_id": "1",
+                    "division_id": "2"
+                },
+                {
+                    "id": "3",
+                    "name": "Khulna 3",
+                    "district_id": "1",
+                    "division_id": "2"
+                },
+                {
+                    "id": "4",
+                    "name": "Khulna 4",
+                    "district_id": "1",
+                    "division_id": "2"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "kushtia",
+            "division_id": "2",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "kushtia 1",
+                    "district_id": "2",
+                    "division_id": "2"
+                },
+                {
+                    "id": "2",
+                    "name": "kushtia 2",
+                    "district_id": "2",
+                    "division_id": "2"
+                },
+                {
+                    "id": "3",
+                    "name": "kushtia 3",
+                    "district_id": "2",
+                    "division_id": "2"
+                },
+                {
+                    "id": "4",
+                    "name": "kushtia 4",
+                    "district_id": "2",
+                    "division_id": "2"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "chuadanga",
+            "division_id": "1",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "chuadanga 1",
+                    "district_id": "3",
+                    "division_id": "2"
+                },
+                {
+                    "id": "2",
+                    "name": "chuadanga 2",
+                    "district_id": "3",
+                    "division_id": "2"
+                },
+                {
+                    "id": "3",
+                    "name": "chuadanga 3",
+                    "district_id": "3",
+                    "division_id": "2"
+                },
+                {
+                    "id": "4",
+                    "name": "chuadanga 4",
+                    "district_id": "3",
+                    "division_id": "2"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "meherpur",
+            "division_id": "1",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "meherpur 1",
+                    "district_id": "4",
+                    "division_id": "2"
+                },
+                {
+                    "id": "2",
+                    "name": "meherpur 2",
+                    "district_id": "4",
+                    "division_id": "2"
+                },
+                {
+                    "id": "3",
+                    "name": "meherpur 3",
+                    "district_id": "4",
+                    "division_id": "2"
+                },
+                {
+                    "id": "4",
+                    "name": "meherpur 4",
+                    "district_id": "4",
+                    "division_id": "2"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Sylhet",
+            "division_id": "3",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "Sylhet 1",
+                    "district_id": "1",
+                    "division_id": "3"
+                },
+                {
+                    "id": "2",
+                    "name": "Sylhet 2",
+                    "district_id": "1",
+                    "division_id": "3"
+                },
+                {
+                    "id": "3",
+                    "name": "Sylhet 3",
+                    "district_id": "1",
+                    "division_id": "3"
+                },
+                {
+                    "id": "4",
+                    "name": "Sylhet 4",
+                    "district_id": "1",
+                    "division_id": "3"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "sunamganj",
+            "division_id": "3",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "sunamganj 1",
+                    "district_id": "2",
+                    "division_id": "3"
+                },
+                {
+                    "id": "2",
+                    "name": "sunamganj 2",
+                    "district_id": "2",
+                    "division_id": "3"
+                },
+                {
+                    "id": "3",
+                    "name": "sunamganj 3",
+                    "district_id": "2",
+                    "division_id": "3"
+                },
+                {
+                    "id": "4",
+                    "name": "sunamganj 4",
+                    "district_id": "2",
+                    "division_id": "3"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "habiganj",
+            "division_id": "3",
+            "areas": [
+                {
+                    "id": "1",
+                    "name": "habiganj 1",
+                    "district_id": "3",
+                    "division_id": "3"
+                },
+                {
+                    "id": "2",
+                    "name": "habiganj 2",
+                    "district_id": "3",
+                    "division_id": "3"
+                },
+                {
+                    "id": "3",
+                    "name": "habiganj 3",
+                    "district_id": "3",
+                    "division_id": "3"
+                },
+                {
+                    "id": "4",
+                    "name": "habiganj 4",
+                    "district_id": "3",
+                    "division_id": "3"
+                }
+            ]
+        }
+    ],
+    "areas": [
+        {
+            "id": "1",
+            "name": "Dhaka 1",
+            "district_id": "1",
+            "division_id": "1"
+        },
+        {
+            "id": "2",
+            "name": "Dhaka 2",
+            "district_id": "1",
+            "division_id": "1"
+        },
+        {
+            "id": "3",
+            "name": "Dhaka 3",
+            "district_id": "1",
+            "division_id": "1"
+        },
+        {
+            "id": "4",
+            "name": "Dhaka 4",
+            "district_id": "1",
+            "division_id": "1"
+        },
+        {
+            "id": "5",
+            "name": "Gazipur 1",
+            "district_id": "2",
+            "division_id": "1"
+        },
+        {
+            "id": "6",
+            "name": "Gazipur 2",
+            "district_id": "2",
+            "division_id": "1"
+        },
+        {
+            "id": "7",
+            "name": "Gazipur 3",
+            "district_id": "2",
+            "division_id": "1"
+        },
+        {
+            "id": "8",
+            "name": "Gazipur 4",
+            "district_id": "2",
+            "division_id": "1"
+        },
+        {
+            "id": "9",
+            "name": "Tangail 1",
+            "district_id": "3",
+            "division_id": "1"
+        },
+        {
+            "id": "10",
+            "name": "Tangail 2",
+            "district_id": "3",
+            "division_id": "1"
+        },
+        {
+            "id": "11",
+            "name": "Tangail 3",
+            "district_id": "3",
+            "division_id": "1"
+        },
+        {
+            "id": "12",
+            "name": "Tangail 4",
+            "district_id": "3",
+            "division_id": "1"
+        },
+        {
+            "id": "13",
+            "name": "Narshindi 1",
+            "district_id": "4",
+            "division_id": "1"
+        },
+        {
+            "id": "14",
+            "name": "Narshindi 2",
+            "district_id": "4",
+            "division_id": "1"
+        },
+        {
+            "id": "15",
+            "name": "Narshindi 3",
+            "district_id": "4",
+            "division_id": "1"
+        },
+        {
+            "id": "16",
+            "name": "Narshindi 4",
+            "district_id": "4",
+            "division_id": "1"
+        },
+        {
+            "id": "17",
+            "name": "Khulna 1",
+            "district_id": "1",
+            "division_id": "2"
+        },
+        {
+            "id": "18",
+            "name": "Khulna 2",
+            "district_id": "1",
+            "division_id": "2"
+        },
+        {
+            "id": "19",
+            "name": "Khulna 3",
+            "district_id": "1",
+            "division_id": "2"
+        },
+        {
+            "id": "20",
+            "name": "Khulna 4",
+            "district_id": "1",
+            "division_id": "2"
+        },
+        {
+            "id": "21",
+            "name": "kushtia 1",
+            "district_id": "2",
+            "division_id": "2"
+        },
+        {
+            "id": "22",
+            "name": "kushtia 2",
+            "district_id": "2",
+            "division_id": "2"
+        },
+        {
+            "id": "23",
+            "name": "kushtia 3",
+            "district_id": "2",
+            "division_id": "2"
+        },
+        {
+            "id": "24",
+            "name": "kushtia 4",
+            "district_id": "2",
+            "division_id": "2"
+        },
+        {
+            "id": "25",
+            "name": "chuadanga 1",
+            "district_id": "3",
+            "division_id": "2"
+        },
+        {
+            "id": "26",
+            "name": "chuadanga 2",
+            "district_id": "3",
+            "division_id": "2"
+        },
+        {
+            "id": "27",
+            "name": "chuadanga 3",
+            "district_id": "3",
+            "division_id": "2"
+        },
+        {
+            "id": "28",
+            "name": "chuadanga 4",
+            "district_id": "3",
+            "division_id": "2"
+        },
+        {
+            "id": "29",
+            "name": "meherpur 1",
+            "district_id": "4",
+            "division_id": "2"
+        },
+        {
+            "id": "30",
+            "name": "meherpur 2",
+            "district_id": "4",
+            "division_id": "2"
+        },
+        {
+            "id": "31",
+            "name": "meherpur 3",
+            "district_id": "4",
+            "division_id": "2"
+        },
+        {
+            "id": "32",
+            "name": "meherpur 4",
+            "district_id": "4",
+            "division_id": "2"
+        },
+        {
+            "id": "33",
+            "name": "Sylhet 1",
+            "district_id": "1",
+            "division_id": "3"
+        },
+        {
+            "id": "34",
+            "name": "Sylhet 2",
+            "district_id": "1",
+            "division_id": "3"
+        },
+        {
+            "id": "35",
+            "name": "Sylhet 3",
+            "district_id": "1",
+            "division_id": "3"
+        },
+        {
+            "id": "36",
+            "name": "Sylhet 4",
+            "district_id": "1",
+            "division_id": "3"
+        },
+        {
+            "id": "37",
+            "name": "sunamganj 1",
+            "district_id": "2",
+            "division_id": "3"
+        },
+        {
+            "id": "38",
+            "name": "sunamganj 2",
+            "district_id": "2",
+            "division_id": "3"
+        },
+        {
+            "id": "39",
+            "name": "sunamganj 3",
+            "district_id": "2",
+            "division_id": "3"
+        },
+        {
+            "id": "40",
+            "name": "sunamganj 4",
+            "district_id": "2",
+            "division_id": "3"
+        },
+        {
+            "id": "41",
+            "name": "habiganj 1",
+            "district_id": "3",
+            "division_id": "3"
+        },
+        {
+            "id": "42",
+            "name": "habiganj 2",
+            "district_id": "3",
+            "division_id": "3"
+        },
+        {
+            "id": "43",
+            "name": "habiganj 3",
+            "district_id": "3",
+            "division_id": "3"
+        },
+        {
+            "id": "44",
+            "name": "habiganj 4",
+            "district_id": "3",
+            "division_id": "3"
+        }
+    ]
+}
